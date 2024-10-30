@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: #00acea !important;
+}
+
+.library-list-title {
+      color: #00abed;
+      cursor: pointer;
+}
+.library-list-title:hover {
+          color: #0187bb;
+}
